@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiasSpirilis
 - 👀 I’m interested in programming!! I like frontend :)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on any front project!
 - 📫 How to reach me [...](https://www.linkedin.com/in/matias-spirilis/)
 
