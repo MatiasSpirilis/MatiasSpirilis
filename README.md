@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatiasSpirilis
-- 👀 I’m interested in programming!! I like frontend :)
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on any front project!
+- 👀 I’m interested in Programming and Data!! I'm looking forward to be a Data Analyst :)
+- 🌱 I’m currently learning SQL and Python!
+- 💞️ I’m looking to collaborate on any Data related project!
 - 📫 How to reach me [...](https://www.linkedin.com/in/matias-spirilis/)
 
 <!---
