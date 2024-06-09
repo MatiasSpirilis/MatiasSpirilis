@@ -6,10 +6,8 @@ Welcome to my GitHub profile! I'm on a journey to become a data scientist, with 
 
 - 📚 I’m currently learning **SQL** and **Python**.
 - 🎯 My goal is to become a proficient **Data Scientist**.
-- 🌱 I’m exploring data analysis, visualization, and machine learning.
+- 🌱 I’m exploring data analysis, visualization, and data manipulation with Python and SQL
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
-
-## 🛠 Skills
 
 ### Languages
 - Python 🐍
